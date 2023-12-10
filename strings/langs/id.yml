@@ -77,8 +77,8 @@ admin_34 : "Gagal mencari seek saat ini."
 # Bot
 
 # Awal
-start_1 : "Pemilik {0}[{1}] baru saja bergabung dengan obrolan Anda."
-start_2 : "Anggota Pengguna Sudo {0}[{1}] baru saja bergabung dengan obrolan Anda."
+start_4 : "Pemilik {0}[{1}] baru saja bergabung dengan obrolan Anda."
+start_5 : "Anggota Pengguna Sudo {0}[{1}] baru saja bergabung dengan obrolan Anda."
 
 # Pengaturan
 setting_1 : "⚙️ **Setelan Bot Musik**\n\n🖇**Grup:** {0}\n🔖**ID Grup:** `{1}`\n\n💡**Pilih fungsi tombol dari bawah yang ingin Anda edit atau ubah.**"
