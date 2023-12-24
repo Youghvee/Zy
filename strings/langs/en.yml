@@ -75,8 +75,8 @@ admin_34 : "Failed to seek the current stream."
 # Bot 
 
 # Start
-start_1 : "{0}'s Owner[{1}] has just joined your chat."
-start_2 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
+start_4 : "{0}'s Owner[{1}] has just joined your chat."
+start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
 
 # Settings
 setting_1 : "⚙️ **Music Bot Settings**\n\n🖇**Group:** {0}\n🔖**Group ID:** `{1}`\n\n💡**Choose the function buttons from below which you want to edit or change.**"
