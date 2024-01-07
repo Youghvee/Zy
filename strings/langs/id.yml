@@ -199,7 +199,7 @@ lyrics_4 : "Klik tombol di bawah ini dan cari lirik untuk menghindari pencarian 
 
 #Ping
 ping_1 : "Pong!!!!"
-ping_2 : "**Pong!**\n`⚡{1} ms`\n\n<b><u> System Stats:</u></b>\nUptime : {2} \nRam : {4} \nCpu : {4} \nDisk : {3}"
+ping_2 : "**❏ ╰☞ 𝗣𝗢𝗡𝗚**\n`⚡{1} ms`\n\n<b><u> System Stats:</u></b>\nUptime : {2} \nRam : {4} \nCpu : {4} \nDisk : {3}"
 
 
 # Lagu
@@ -308,10 +308,10 @@ ST_B_23 : "🏘 Grup"
 ST_B_24 : "🏷 Channel"
 ST_B_25 : "🫂 Jenis Play"
 ST_B_26 : "🗑 Perintah Bersih"
-ST_B_27 : "🧑‍🚀 Suggestion Mode"
+ST_B_27 : "📝 Suggestion Mode"
 
 #Lagu
-SG_B_1 : "↗️ Buka Obrolan Pribadi"
+SG_B_1 : "❓ Buka Obrolan Pribadi"
 SG_B_2 : "🔊 Audio"
 SG_B_3 : "🎥 Video"
 
