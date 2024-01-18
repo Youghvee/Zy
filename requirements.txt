@@ -12,7 +12,7 @@ pillow
 psutil
 py-tgcalls==0.9.2
 pykeyboard
-pyrogram==2.0.106
+telethon==1.24.0
 python-dotenv
 pyyaml==5.3.1
 requests
