@@ -11,21 +11,17 @@ import sys
 
 from pyrogram import Client
 
-import config
-
-from ..logging import LOGGER
-
-assistants = []
-assistantids = []
-
-
-class Userbot(Client):
+class Userbot:
     def __init__(self):
         self.one = Client(
-            api_id=config.API_ID,
-            api_hash=config.API_HASH,
-            session_name=str(config.STRING1),
+            "my_session",  # Replace with your session name
+            api_id=your_api_id,
+            api_hash="your_api_hash",
             no_updates=True,
+            # Other necessary parameters
+        )
+
+# Replace "my_session", your_api_id, and "your_api_hash" with your actual session name, API ID, and API hash
         )
         self.two = Client(
             api_id=config.API_ID,
