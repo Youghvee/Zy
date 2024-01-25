@@ -61,7 +61,7 @@
       "DURATION_LIMIT": {
         "description": "diisi, berapa panjang durasi maksimal lagu!",
         "required": true,
-        "value": "160"
+        "value": "280"
       },
       "HEROKU_API_KEY": {
         "description": "Isi dengan Token Api heroku.",
